@@ -1,7 +1,8 @@
 {
   "name": "test_ios",
   "short_name": "test_ios",
-  "start_url": ".",
+  "start_url": "/test_ios/",
+  "scope": "/test_ios/",
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
